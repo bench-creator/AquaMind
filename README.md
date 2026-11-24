@@ -1,6 +1,6 @@
 # AquaMind
 AI-powered Water Quality Monitoring and Prediction System for Armenia.
-
+![AquaMind Project Hub](AquaMind%20%E2%80%94%20Project%20Hub.jpg)
 ## 📌 About the Project
 
 AquaMind is an AI-powered platform designed to analyze and predict water quality in Armenia.
