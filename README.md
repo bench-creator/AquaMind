@@ -601,7 +601,7 @@ See the `LICENSE` file for more information once it is added to the repository.
 <div align="center">
 
 <!-- Add the AquaMind logo here after creating assets/aquamind-logo.png -->
-<!-- <img src="assets/aquamind-logo.png" alt="AquaMind Logo" width="95"> -->
+<img src="assets/Gemini_Generated_Image_1hurin1hurin1hur (1).jpg" alt="AquaMind Logo" width="95">
 
 ### AquaMind
 
